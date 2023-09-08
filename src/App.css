@@ -36,3 +36,102 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* MIS ESTILOS */
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: rgb(73, 88, 158);
+}
+
+input {
+  background-color: rgb(220, 210, 144);
+  padding: 10px 50px;
+  max-width: 300px;
+  margin: 10px auto;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(98, 12, 86);
+}
+
+#eleccionusuario {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(117, 146, 162);
+}
+
+#eleccionpc {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(117, 146, 162);
+}
+
+#resultadoparcial {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(117, 146, 162);
+}
+
+#resultado {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(31, 195, 17);
+}
+
+#resultadousuario {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(31, 195, 17);
+}
+
+#resultadopc {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(31, 195, 17);
+}
+
+#resultadoempate {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(31, 195, 17);
+}
+
+#resultadofinal {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px 0px 0px 600px;
+  color: rgb(73, 88, 158);
+}
+
+#reset {
+  background-color: rgb(237, 18, 18);
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
