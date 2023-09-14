@@ -37,17 +37,11 @@
   }
 }
 
-
 /* MIS ESTILOS */
-h1 {
-  font-size: 40px;
-  text-align: center;
-  color: rgb(73, 88, 158);
-}
-
 input {
-  background-color: rgb(220, 210, 144);
+  background-color: rgb(215, 228, 91);
   padding: 10px 50px;
+  border-radius: 6px;
   max-width: 300px;
   margin: 10px auto;
   font-size: 14px;
@@ -58,79 +52,71 @@ input {
 h3 {
   font-size: 20px;
   text-align: center;
-  color: rgb(98, 12, 86);
+  color: rgb(196, 12, 171);
 }
 
 #eleccionusuario {
   font-size: 16px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
-  color: rgb(117, 146, 162);
+  color: rgb(239, 107, 13);
+  text-align: center;
 }
 
 #eleccionpc {
   font-size: 16px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
-  color: rgb(117, 146, 162);
+  color: rgb(239, 107, 13);
+  text-align: center;
 }
 
 #resultadoparcial {
   font-size: 16px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
-  color: rgb(117, 146, 162);
+  color: rgb(239, 107, 13);
+  text-align: center;
 }
 
 #resultado {
   font-size: 16px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
   color: rgb(31, 195, 17);
+  text-align: center;
 }
 
 #resultadousuario {
   font-size: 16px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
   color: rgb(31, 195, 17);
+  text-align: center;
 }
 
 #resultadopc {
   font-size: 16px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
   color: rgb(31, 195, 17);
+  text-align: center;
 }
 
 #resultadoempate {
   font-size: 16px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
   color: rgb(31, 195, 17);
+  text-align: center;
 }
 
 #resultadofinal {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: bold;
-  text-align: left;
-  padding: 0px 0px 0px 600px;
-  color: rgb(73, 88, 158);
+  color: rgb(196, 12, 171);
+  text-align: center;
 }
 
 #reset {
-  background-color: rgb(237, 18, 18);
+  background-color: rgb(239, 107, 13);
   color: rgb(0, 0, 0);
   padding: 10px 20px;
   border: none;
-  border-radius: 4px;
+  border-radius: 6px;
   margin: 5px 5px;
   font-size: 14px;
   font-weight: bold;

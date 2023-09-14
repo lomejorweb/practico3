@@ -24,7 +24,7 @@ En cada jugada el juego publica los resultados de la jugada y actualiza los resu
 ## Código utilizado
 
 * El desarrollo fue realizado en REACT App.
-* Las herramientas usadas son REACT con Arrow Funcions, JavaScript, CSS y HTML.
+* Las herramientas usadas son REACT con Arrow Functions, JavaScript, CSS y HTML.
 * Se usaron Estados en el componente Juego, para modificar el render del componente mientras este se iba modificando.
 * Se usaron Props para compartir valores entre los distintos componentes, en particular en el Nombre del Usuario.
 * Cuando fue necesario por la complejidad, se usó un componente de clase, en lugar de un componente funcional.
